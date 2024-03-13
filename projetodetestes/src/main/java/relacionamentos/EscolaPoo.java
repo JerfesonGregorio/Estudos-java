@@ -1,6 +1,6 @@
-package escolapoo;
+package relacionamentos;
 
-import escola.Disciplina;
+import modelos.*;
 
 public class EscolaPoo {
     public static void main(String[] args) {

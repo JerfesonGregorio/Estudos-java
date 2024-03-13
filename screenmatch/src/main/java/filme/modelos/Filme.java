@@ -1,3 +1,5 @@
+package main.java.filme.modelos;
+
 public class Filme {
 
     String nome;

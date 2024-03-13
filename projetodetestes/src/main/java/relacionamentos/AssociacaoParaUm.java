@@ -1,7 +1,5 @@
-package escolapoo;
-
-import escola.Aluno;
-import escola.Turma;
+package relacionamentos;
+import modelos.*;
 
 import java.util.Date;
 

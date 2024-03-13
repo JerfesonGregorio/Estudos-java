@@ -1,4 +1,4 @@
-package escola;
+package modelos;
 
 public class Pessoa {
     protected String nome;

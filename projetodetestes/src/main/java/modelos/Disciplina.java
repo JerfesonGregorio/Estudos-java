@@ -1,4 +1,4 @@
-package escola;
+package modelos;
 
 import java.util.*;
 

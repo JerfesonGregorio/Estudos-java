@@ -1,7 +1,6 @@
-package escolapoo;
+package relacionamentos;
 
-import escola.Disciplina;
-import escola.Professor;
+import modelos.*;
 
 public class AssociacaoMuitosParaMuitos {
 

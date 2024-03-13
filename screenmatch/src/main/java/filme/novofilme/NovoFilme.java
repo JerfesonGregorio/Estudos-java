@@ -1,4 +1,8 @@
-public class Main {
+package main.java.filme.novofilme;
+
+import main.java.filme.modelos.Filme;
+
+public class NovoFilme {
 
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
